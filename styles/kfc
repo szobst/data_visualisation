@@ -1,0 +1,45 @@
+axes.titlesize : 14
+axes.labelsize : 10
+axes.linewidth : 2
+
+lines.linewidth : 3
+lines.markersize : 4
+
+xtick.labelsize : 8
+ytick.labelsize : 8
+
+font.family : sans-serif
+font.sans-serif : Calibri
+
+
+
+# BackGround
+xtick.color: black
+ytick.color: black
+
+figure.facecolor : white
+figure.edgecolor: white
+
+axes.facecolor: white
+axes.edgecolor: black
+axes.labelcolor: black
+
+
+#line plot
+axes.prop_cycle: cycler('color', ['a6192e', '000000'])
+
+legend.facecolor: black
+legend.framealpha: 0.6
+
+#scatter
+
+grid.color: f5d4b7
+
+lines.marker: .
+lines.markeredgecolor: ffffff
+
+
+
+#image
+
+image.cmap: Reds

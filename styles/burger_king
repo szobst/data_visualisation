@@ -1,0 +1,44 @@
+axes.titlesize : 14
+axes.labelsize : 10
+axes.linewidth : 2
+
+lines.linewidth : 2
+lines.markersize : 4
+
+xtick.labelsize : 8
+ytick.labelsize : 8
+
+font.family : sans-serif
+font.sans-serif : Calibri
+
+
+
+# BackGround
+xtick.color: black
+ytick.color: black
+
+figure.facecolor : f5ecdd
+figure.edgecolor: white
+
+axes.facecolor: f5ecdd
+axes.edgecolor: black
+axes.labelcolor: black
+
+#line plot
+axes.prop_cycle: cycler('color', ['d81e00', 'ff882e'])
+
+legend.facecolor: b78876
+legend.framealpha: 0.8
+
+
+#scatter
+scatter.marker: ^
+grid.color: b78876
+lines.marker: .
+lines.markeredgecolor: b78876
+
+
+
+#image
+
+image.cmap: YlOrRd
